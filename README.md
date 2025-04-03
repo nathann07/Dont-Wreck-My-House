@@ -1,7 +1,9 @@
 ## Don't Wreck My House – Java Reservation Management System
-An end-to-end **Java console application** for managing vacation home reservations. Designed with clean architecture principles and built using object-oriented programming, layered design, and modern Java tools.
+An end-to-end **Java console application** for managing vacation home reservations. Designed with clean architecture principles and built using object-oriented programming, layered design, and modern Java tools. Simulates the operations of a platform similar to Airbnb, with support for adding, viewing, editing, and canceling reservations between guests and hosts.
 
-This project simulates the operations of a platform similar to Airbnb, with support for adding, viewing, editing, and canceling reservations between guests and hosts.
+This project was developed as part of HTD Talent’s Java Accelerator Program, a professional training program focused on building enterprise-grade Java applications using modern development patterns and testing practices.
+
+
 
 ### Features
 * **View Reservations:**
